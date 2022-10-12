@@ -4,7 +4,7 @@
   padding: 0 20px;
 
   @include max-width($tablet) {
-    max-width: 480px;
+    max-width: 280px;
   }
 
   @include min-width($tablet) {
@@ -13,6 +13,7 @@
   }
 
   @include min-width($desktop) {
-    width: 1440px;
+    width: 1200px;
+    padding: 0 16px;
   }
 }

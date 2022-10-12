@@ -1,0 +1,13 @@
+.hero{
+    background-color: $main-color;
+}
+.hero_title {
+  font-family: 'Seymour One';
+  font-size: 26px;
+  line-height: 33px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+
+  width: 230px;
+  color: $text-white-color;
+}
