@@ -1,11 +1,11 @@
 {
-  "name": "goit-js-62-09",
+  "name": "project-ice-cream",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://artipavl.github.io/goit-js-62-09/",
+  "homepage": "https://artipavl.github.io/project-ice-cream/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-62-09/"
+    "build": "parcel build src/*.html --public-url /project-ice-cream/"
   },
   "repository": {
     "type": "git",
